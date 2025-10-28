@@ -2,8 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Othmane!;Web+%26+Mobile+Developer;Flutter+%26+Laravel+Enthusiast;Cybersecurity+Student;Tech+Explorer)](https://git.io/typing-svg)
 
+🎓 I'm a **Technicien Spécialisé in Software Development**, currently pursuing a **Bachelor’s degree in Cybersecurity**.  
+💬 I love learning new technologies, solving problems, and turning ideas into real digital experiences.  
+🌍 Based in **Casablanca, Morocco** 🇲🇦  
 💡 Passionate about developing modern web and mobile applications.  
-🎓 Currently pursuing a **Bachelor's degree in Cybersecurity**.  
 💻 Holder of a **Diploma in Software Development (Bac+2)** from **OMNIA SCHOOL**, Casablanca.  
 🌱 Always exploring new technologies and best practices in software and data security.  
 🎯 Goal: Build secure, scalable, and user-friendly digital solutions.  
