@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there! 👋 I'm Othmane LEMLIH  
 
-<!--
-**othmane005/othmane005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Othmane!;Software+Developer;Tech+Explorer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+💡 Passionate about crafting mobile apps and building modern web experiences.  
+🌱 Currently exploring **Flutter, Next.js, and UI/UX design principles**.  
+🎯 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build apps that people love to use.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Othmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=othmane005&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othmane005&layout=compact&theme=radical)
+
+---
+
+## 🌍 Find me around the web
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmanelh/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/othman__lh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://rissss21.github.io/portofolio/)
