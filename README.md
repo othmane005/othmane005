@@ -1,28 +1,44 @@
 # Hey there! 👋 I'm Othmane LEMLIH  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Othmane!;Software+Developer;Tech+Explorer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Othmane!;Web+%26+Mobile+Developer;Flutter+%26+Laravel+Enthusiast;Cybersecurity+Student;Tech+Explorer)](https://git.io/typing-svg)
 
-💡 Passionate about crafting mobile apps and building modern web experiences.  
-🌱 Currently exploring **Flutter, Next.js, and UI/UX design principles**.  
-🎯 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build apps that people love to use.   
+💡 Passionate about developing modern web and mobile applications.  
+🎓 Currently pursuing a **Bachelor's degree in Cybersecurity**.  
+💻 Holder of a **Diploma in Software Development (Bac+2)** from **OMNIA SCHOOL**, Casablanca.  
+🌱 Always exploring new technologies and best practices in software and data security.  
+🎯 Goal: Build secure, scalable, and user-friendly digital solutions.  
 
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![Othmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=othmane005&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=othmane005&layout=compact&theme=radical)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=othmane005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=othmane005&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmane005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
 
 ---
 
