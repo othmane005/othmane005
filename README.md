@@ -27,6 +27,16 @@
 
 ---
 
+## 🚀 Featured Projects
+
+- 🛒 **E-commerce API (Laravel + Flutter)** — Complete backend & mobile app for an online store.  
+- 🧠 **AI Chat Assistant** — NLP chatbot powered by Python.  
+- 🌐 **Portfolio Website** — Built with React & TailwindCSS, showcasing my skills and projects.  
+
+➡️ [Check out all my projects here!](https://github.com/othmane005?tab=repositories)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
