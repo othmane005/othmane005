@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Othmane LEMLIH  
+# Hey there! 👋 I'm LEMLIH Othmane 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Othmane!;Web+%26+Mobile+Developer;Flutter+%26+Laravel+Enthusiast;Cybersecurity+Student;Tech+Explorer)](https://git.io/typing-svg)
 
